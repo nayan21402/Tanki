@@ -12,6 +12,23 @@ TankStars is a turn-based artillery game where players control tanks and engage 
 - Dynamic sound effects and visual effects.
 - win/loss conditions.
 - Air drops
+  
+## Controls
+
+- Use arrow keys to move the tanks.
+- Use 1 to fire for player 1
+- Use 2 to fire for player 2
+  
+## Gameplay
+![gif_screen](./images/gif.gif)
+
+![main_screen](./images/1.png)
+
+![main_screen2](./images/2.png)
+
+
+
+
 
 ## Prerequisites
 
@@ -45,12 +62,10 @@ Alternatively, you can run the game from the command line using Gradle. In the p
 ```
 4. Play the game and enjoy the TankStars clone!
 
-  
-## Controls
 
-- Use arrow keys to move the tanks.
-- Use 1 to fire for player 1
-- Use 2 to fire for player 2
+
+## UML Diagram
+![uml](./images/UML_Diagram.png)
 
 ## Acknowledgments
 
