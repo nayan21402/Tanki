@@ -22,9 +22,16 @@ TankStars is a turn-based artillery game where players control tanks and engage 
 ## Gameplay
 ![gif_screen](./images/gif.gif)
 
+## Screenshots
 ![main_screen](./images/1.png)
 
 ![main_screen2](./images/2.png)
+
+![pause](./images/pause_state.png)
+
+![save](./images/Save.png)
+
+
 
 
 
