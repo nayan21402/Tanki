@@ -1,0 +1,39 @@
+
+tank_animation.png
+size: 8192, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+red_tank
+  rotate: false
+  xy: 0, 0
+  size: 8192, 2048
+  orig: 8192, 2048
+  offset: 0, 0
+  index: -1
+
+tank_animation2.png
+size: 8192, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+blue_tanks
+  rotate: false
+  xy: 0, 0
+  size: 8192, 2048
+  orig: 8192, 2048
+  offset: 0, 0
+  index: -1
+
+tank_animation3.png
+size: 8192, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+yellow_tanks
+  rotate: false
+  xy: 0, 0
+  size: 8192, 2048
+  orig: 8192, 2048
+  offset: 0, 0
+  index: -1
