@@ -1,4 +1,4 @@
-# TankStars 
+# TankStars - project by Nayan Dwivedi and Siddhant Khokhar
 
 This project is a clone of the popular game "TankStars" implemented in Java using the LibGDX framework.
 
