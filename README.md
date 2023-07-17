@@ -73,7 +73,9 @@ Alternatively, you can run the game from the command line using Gradle. In the p
 
 
 ## UML Diagram
-![uml](./images/UML_Diagram.png)
+![uml](./uml(1).png)
+## Use Case Diagram
+![use case](./images/UML_Diagram.png)
 
 ## Acknowledgments
 
